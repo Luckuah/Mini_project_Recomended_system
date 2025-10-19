@@ -1,4 +1,4 @@
-# TD1_Recommender_systems
+# Mini_project_Recomended_system
 
 ## Groupe 2 Ing5 Data-IA
 ## Authors
